@@ -1,0 +1,55 @@
+#card--main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    padding:0rem 0 4.5rem 0;
+    border-bottom:2px solid #bbbac0;
+}
+#card--holder{
+    /* border:1px solid black; */
+    display: flex;
+    width: 90%; 
+    margin: -0.5rem 0;
+    padding: 5rem 0rem 0;
+}
+#card--info{
+    margin:0.5rem 4rem 0;
+}
+
+.loca{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.google{
+    color: #918E9B;
+}
+#l-icon{
+    width:2rem;
+    margin:0rem 0 0 -0.5rem;
+}
+#navigate--info{
+    display: flex;
+    align-items: center;
+}
+#tour--pic{
+    background-color: blue;
+    width:21rem;
+    height: 22rem;
+    border-radius: 1rem;
+}
+#title{
+    margin:1rem 0rem 0rem;
+}
+.date{
+    font-weight: bold;
+    /* border: 1px solid black; */
+}
+#describe{
+    margin:2.5rem 0rem 0rem;
+}
+#des{
+    margin:1rem 0;
+}
+hr{
+    display:inline-block;
+}

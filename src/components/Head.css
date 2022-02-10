@@ -1,0 +1,22 @@
+#head{
+    background: #F55A5A;
+    color:white;
+    font-size:1.5rem;
+    /* font-weight: bold; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    
+}
+#globe{
+    width:4rem;
+    margin:0rem 1rem;
+}
+
+#globe:hover{
+    width:4rem;
+    margin:0rem 1rem;
+    opacity: 0.5;
+    transition: 01s ease-in-out;
+}
